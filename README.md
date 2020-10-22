@@ -3,7 +3,7 @@
 Audio streaming platform, behavior/environment design
 
 ## Looking to hire
-- Part-time iOS dev (SwiftUI/Objective C/Flutter, Firebase/AWS experience) - paid, industry advice, technical interview prep, life/goal setting
+- Part-time iOS dev (SwiftUI/Objective C/Flutter/React Native, Firebase/AWS experience) - paid, industry advice, technical interview prep, life/goal setting
 
 ## Coding challenge (<24hr)
 - Setup a private repo named "multiverse-leader-election-challenge" and add @blackice10 as a collaborator
