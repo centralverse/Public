@@ -5,6 +5,9 @@ Audio streaming platform, behavior/environment design
 ## Looking to hire
 - Part-time iOS dev (SwiftUI/Objective C/Flutter/React Native, Firebase/AWS experience) - paid, industry advice, technical interview prep, life/goal setting
 
+## Time To Complete Challenge
+<24hrs from start to finish
+
 ## Coding challenge (<24hr)
 - Setup a private repo named "multiverse-leader-election-challenge" and add @blackice10 as a collaborator
 - Create a single-view iOS app which retrieves an audio file from Firebase or AWS (specified by a retrieval path), and downloads locally to device (please see supporting files folder for audio files [here](https://github.com/centralverse/public/tree/main/supporting%20files))
