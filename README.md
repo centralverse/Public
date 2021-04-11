@@ -14,3 +14,4 @@ Audio streaming platform, behavior/environment design
 - Create a [leader election](https://en.wikipedia.org/wiki/Leader_election) system where a user can create a group and control synchronous playback (play/pause/reset) of the audio file for any other user that joins his/her group - other users should be able to join the group via entering group name (audio file will have to be downloaded locally first before being able to join synchronous playback)
 - If leader quits app or creates another group, former group should then elect a new leader
 - If no one left in group, group should die out and be removed
+- **Upload an unlisted YouTube video with your demo and add it to your README**
